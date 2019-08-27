@@ -67,6 +67,7 @@ return [
     // Zone 2
     'z2' => [
         'AU',
+        'PW',
         'CX',
         'FJ',
         'KI',
@@ -90,5 +91,7 @@ return [
         'PN',
         'TK',
         'SO',
+        'AS',
+        'WS',
     ]
 ];
