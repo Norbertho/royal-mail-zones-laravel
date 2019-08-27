@@ -3,7 +3,7 @@
 return [
     // UK zone
     'uk' => [
-        "UK"
+        'GB',
     ],
     // EU zone
     'eu' => [
